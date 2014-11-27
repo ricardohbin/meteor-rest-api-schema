@@ -1,6 +1,6 @@
 ## rest-api-schema
 
-REST API sample with SimpleSchema for Meteor, using Iron Router. Inspired in https://raw.githubusercontent.com/awatson1978/rest-api/
+REST API sample with SimpleSchema for Meteor, using Iron Router. Inspired in https://github.com/awatson1978/rest-api/
 
 #### Installation
 
