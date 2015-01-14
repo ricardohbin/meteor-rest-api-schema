@@ -6,10 +6,10 @@ REST API sample with SimpleSchema for Meteor, using Iron Router. Inspired in htt
 
 ````sh
 # Clone the repository...  
-git clone https://github.com/ricardohbin/rest-api-schema.git
+git clone https://github.com/ricardohbin/meteor-rest-api-schema.git
 
 # And meteor it!
-cd rest-api-sample
+cd meteor-rest-api-sample
 meteor
 ````
 
